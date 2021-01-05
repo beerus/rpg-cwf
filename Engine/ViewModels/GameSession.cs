@@ -7,14 +7,14 @@ using Engine.Models;
 
 namespace Engine.ViewModels
 {
-    class GameSession
+    public class GameSession
     {
-        Player CurrentPlayer { get; set; }
+        public Player CurrentPlayer { get; set; }
 
         public GameSession()
         {
             CurrentPlayer = new Player();
-            CurrentPlayer.Name = "Scott";
+            CurrentPlayer.Name = "Raj";
             CurrentPlayer.Gold = 100000;
         }
     }
