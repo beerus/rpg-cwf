@@ -1,0 +1,15 @@
+C:\Users\Raj\Desktop\Developer\dotnet\rpg-cwf\WPFUI\bin\Debug\WPFUI.exe.config
+C:\Users\Raj\Desktop\Developer\dotnet\rpg-cwf\WPFUI\bin\Debug\WPFUI.exe
+C:\Users\Raj\Desktop\Developer\dotnet\rpg-cwf\WPFUI\bin\Debug\WPFUI.pdb
+C:\Users\Raj\Desktop\Developer\dotnet\rpg-cwf\WPFUI\obj\Debug\WPFUI.csprojAssemblyReference.cache
+C:\Users\Raj\Desktop\Developer\dotnet\rpg-cwf\WPFUI\obj\Debug\MainWindow.g.cs
+C:\Users\Raj\Desktop\Developer\dotnet\rpg-cwf\WPFUI\obj\Debug\App.g.cs
+C:\Users\Raj\Desktop\Developer\dotnet\rpg-cwf\WPFUI\obj\Debug\WPFUI_MarkupCompile.cache
+C:\Users\Raj\Desktop\Developer\dotnet\rpg-cwf\WPFUI\obj\Debug\WPFUI_MarkupCompile.lref
+C:\Users\Raj\Desktop\Developer\dotnet\rpg-cwf\WPFUI\obj\Debug\MainWindow.baml
+C:\Users\Raj\Desktop\Developer\dotnet\rpg-cwf\WPFUI\obj\Debug\WPFUI.g.resources
+C:\Users\Raj\Desktop\Developer\dotnet\rpg-cwf\WPFUI\obj\Debug\WPFUI.Properties.Resources.resources
+C:\Users\Raj\Desktop\Developer\dotnet\rpg-cwf\WPFUI\obj\Debug\WPFUI.csproj.GenerateResource.cache
+C:\Users\Raj\Desktop\Developer\dotnet\rpg-cwf\WPFUI\obj\Debug\WPFUI.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\Developer\dotnet\rpg-cwf\WPFUI\obj\Debug\WPFUI.exe
+C:\Users\Raj\Desktop\Developer\dotnet\rpg-cwf\WPFUI\obj\Debug\WPFUI.pdb
