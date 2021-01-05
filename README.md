@@ -8,9 +8,9 @@ These are the things I want the player to be able to do in the game.
 
 First version
 
-User can create a player
-Different classes (different bonuses for each class)
-Player can move to locations
+User can create a player\n
+Different classes (different bonuses for each class)\n
+Player can move to locations\n
 The location might have a monster to fight
 If the player defeats the monster, they receive:
 Experience points, gold, random loot
